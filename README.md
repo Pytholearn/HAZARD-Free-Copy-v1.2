@@ -6,12 +6,13 @@ Version: 1.2
 >Just For Windows!
 
 How To Install?
-```
+
 1. Run CMD
-   - git clone https://github.com/Pytholearn/HAZARD-Free-Copy-v1.2
+   - ```git clone https://github.com/Pytholearn/HAZARD-Free-Copy-v1.2```
      - Wiat For Install All Library
-        - Click start.bat File
-```
+        - ```cd HAZARD-Free-Copy-v1.2 ```
+           -  ```cd HAZARD-Free-Copy-v1.2 ```
+
 
 How to Run?
 ```
