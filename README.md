@@ -5,22 +5,20 @@ New Tool For Bad USB
 Version: 1.2
 >Just For Windows!
 
-How To Install?
+How To Install & Run?
 
 1. Run CMD
    - ```git clone https://github.com/Pytholearn/HAZARD-Free-Copy-v1.2```
      - Wiat For Install All Library
         - ```cd HAZARD-Free-Copy-v1.2 ```
            -  ```cd HAZARD-Free-Copy-v1.2 ```
+              - ```setup.bat ```
+              - Wait For Complete Install
+            
+              
+NOTE: You can download the file from this page and place it where you want
 
 
-How to Run?
-```
-1. Extract the Free Copy.zip file
-   - Run setup.bat File
-     - Wiat For Install All Library
-        - Click start.bat File
-```
 *If you have any questions, enter the tool and press the number 10(HELP)✨*
 
 <picture>
