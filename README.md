@@ -27,3 +27,8 @@ NOTE: You can download the file from this page and place it where you want
   <img alt="Free Copy IMG" src="https://cdn.discordapp.com/attachments/1131726730743263312/1133084540508852264/image.png">
 </picture>
 
+Discord: https://discord.gg/xbN3XSHYjx
+
+YouTube https://www.youtube.com/channel/UCFhRw24axi5gfa7ZLVe49_w
+
+Made by : HaZaRd#4058
