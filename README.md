@@ -21,6 +21,8 @@ NOTE: You can download the file from this page and place it where you want
 
 *If you have any questions, enter the tool and press the number 10(HELP)✨*
 
+How To Use: https://youtube.com/watch?v=ih_YpcHexU8
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/1131726730743263312/1133084540508852264/image.png">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/1131726730743263312/1133084540508852264/image.png">
